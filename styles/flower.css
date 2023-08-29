@@ -16,7 +16,7 @@ body {
 .heading {
     width: 708px;
     color: #272727;
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 800;
     padding-left: 200px;
     padding-top: 197px;
@@ -47,4 +47,164 @@ body {
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
+}
+
+/* main section  */
+.header {
+    padding-top: 150px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.header-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 594px;
+    padding-left: 500px;
+}
+
+.flower {
+    display: flex;
+    margin-left: 150px;
+    margin-left: 150px;
+    gap: 24px;
+}
+
+.flower-1 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flower-2 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+}
+
+.flower-3 {
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-right: 24px;
+}
+
+.f-descripyion {
+    display: inline-flex;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 20px;
+    text-decoration-line: underline;
+    padding-left: 300px;
+}
+
+.f-descripyion-2 {
+    display: inline-flex;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 20px;
+    text-decoration-line: underline;
+    padding-left: 280px;
+}
+
+.f-descripyion-3 {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    display: inline;
+    padding-inline-start: 260px;
+}
+
+/* main-second-section styles */
+.section-2nd {
+    height: 320px;
+    margin-top: 128px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.flower-section {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 86px;
+
+}
+
+.flower-description {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flower-center {
+    width: 88px;
+    height: 88px;
+    padding-left: 60px;
+}
+
+.flower-center-1 {
+    width: 88px;
+    height: 88px;
+    padding-left: 140px;
+}
+
+/* section third styles */
+.section-3rd {
+    margin-top: 128px;
+    height: 900px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    background-image: url('../Flower Asset/pngwing\ 8.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.section-3rd-description {
+    padding-left: 423px;
+    padding-top: 100px;
+}
+
+.heading-part {
+    padding-top: 180px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.heading-part-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 5px;
+    padding-right: 400px;
+}
+
+.flower-part {
+    padding-left: 800px;
+}
+
+span {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
 }
