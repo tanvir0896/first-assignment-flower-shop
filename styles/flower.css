@@ -208,3 +208,95 @@ span {
     font-size: 40px;
     font-weight: 800;
 }
+
+/* instagram section  */
+.instagram {
+    margin-top: 124px;
+}
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.title-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+
+.instagram-flower-img {
+    gap: 24px;
+    margin-left: 150px;
+}
+
+/* deals section styles */
+.deals-section {
+    margin-top: 128px;
+    margin-left: 50px;
+    width: 1440px;
+    height: 449px;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+}
+
+.image-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+
+}
+
+.image-heading-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 233px;
+}
+
+/* footer part  */
+.footer {
+    width: 1922px;
+    height: 449px;
+    margin-top: 122px;
+    background: #111010;
+}
+
+.footer-heading {
+    padding: 128px 832px 263px 600px;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.fl-color {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.shop {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+small {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
