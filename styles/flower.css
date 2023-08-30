@@ -261,6 +261,28 @@ span {
     font-size: 18px;
     font-weight: 400;
     padding-bottom: 233px;
+    margin-bottom: -200px;
+}
+
+.input {
+    width: 500px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-left: 200px;
+}
+
+.input-btn {
+    justify-content: center;
+    display: flex;
+}
+
+.btnn-primary {
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-left: 5px;
 }
 
 /* footer part  */
@@ -269,34 +291,29 @@ span {
     height: 449px;
     margin-top: 122px;
     background: #111010;
-}
+} 
 
 .footer-heading {
-    padding: 128px 832px 263px 600px;
+    color: #E55473;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+    padding-top: 128px;
 }
 
 .footer-description {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
     font-size: 18px;
-    font-weight: 400;
-}
-
-.fl-color {
-    color: #E55473;
-    font-size: 48px;
-    font-weight: 800;
-}
-
-.shop {
-    color: #FFF;
-    font-size: 48px;
-    font-weight: 800;
 }
 
 small {
     color: rgba(255, 255, 255, 0.40);
-    text-align: center;
     font-size: 16px;
+    font-style: normal;
     font-weight: 400;
+    line-height: normal;
+    padding-left: 700px;
 }
